@@ -1,0 +1,16 @@
+.editbtn{
+    background-color: rgb(74, 167, 71);
+    font-size: 17px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 2px;
+    color: white;
+}
+
+.deletebtn{
+    background-color: rgb(175, 57, 57);
+    font-size: 17px;
+    padding: 2px 10px 2px 10px;
+    border-radius: 2px;
+    color: rgb(248, 246, 246);
+    margin-left: 10px;
+}

@@ -1,0 +1,54 @@
+.container{
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    min-height: 100vh;
+}
+
+.imgbox{
+    max-width: 100px;
+    max-height: 100px;
+}
+.imgbox img{
+    width: 100%;
+}
+.card{
+    border: 4px rgb(71, 86, 134) solid;
+}
+
+.mybody{
+    display: flex;
+    flex-direction: row;
+    padding: 25px;
+    width: 100%;
+}
+.cat_count{
+    font-size: 8vh;
+    font-weight: bold;
+    color: rgb(71, 86, 134);
+    text-align: center;
+    width: 100%;
+}
+.textbox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cat_name{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.pagetitle{
+    text-align: center;
+    font-size: 5vh;
+    font-weight: bold;
+}
+.pagedescription{
+    font-size: 3vh;
+    text-align: center;
+}

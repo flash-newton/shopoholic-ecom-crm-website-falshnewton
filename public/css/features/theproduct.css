@@ -1,0 +1,81 @@
+.product-view .product-name{
+    font-size: 24px;
+    color: #2874f0;
+}
+.product-view .product-name .label-stock{
+    font-size: 13px;
+    padding: 4px 13px;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%);
+    float: right;
+}
+.product-view .product-path{
+    font-size: 13px;
+    font-weight: 500;
+    color: #252525;
+    margin-bottom: 16px;
+}
+.product-view .selling-price{
+    font-size: 26px;
+    color: #000;
+    font-weight: 600;
+    margin-right: 8px;
+}
+.product-view .original-price{
+    font-size: 18px;
+    color: #937979;
+    font-weight: 400;
+    text-decoration: line-through;
+}
+.product-view .btn1{
+    border: 1px solid;
+    margin-right: 3px;
+    border-radius: 0px;
+    font-size: 14px;
+    margin-top: 10px;
+    background-color: rgb(192, 68, 68);
+    color: white;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.btn2{
+    background-color: rgb(83, 81, 209) !important;
+    border-radius: 50% !important;
+}
+.product-view .btn1:hover{
+    background-color: #2874f0;
+    color: #fff;
+}
+.product-view .input-quantity{
+    border: 1px solid #000;
+    margin-right: 3px;
+    font-size: 12px;
+    margin-top: 10px;
+    width: 58px;
+    outline: none;
+    text-align: center;
+}
+
+.backbtn{
+    background-color: rgb(57, 57, 131);
+    color: white;
+    padding: 2px 8px 2px 8px;
+    border-radius: 2px;
+    font-size: 12px;
+}
+.prodtitle{
+    font-weight: 600;
+    color: #fff9f9;
+    background-color: #305592;
+    padding: 3px 15px 3px 15px;
+    
+} 
+.discount{
+    font-size:11px;
+    background-color: red;
+    color: white;
+    padding: 1px;
+    padding-left: 3px;
+    padding-right: 3px;
+}

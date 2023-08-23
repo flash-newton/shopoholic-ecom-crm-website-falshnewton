@@ -1,0 +1,50 @@
+.mymainbox{
+    margin: 30px;
+
+}
+.mytitle{
+    padding-bottom: 0px;
+    margin-bottom: 0;
+}
+.rows:hover{
+    background-color: rgb(218, 218, 241);
+}
+.tabletitle{
+    background-color: rgb(101, 101, 230);
+    font-weight: 700;
+    padding: 20px;
+    color: white;
+    border-radius: 8px 8px 0 0;
+
+}
+h4{
+    margin-bottom: 0;
+}
+tr td{
+    color: rgb(77, 76, 76) !important;
+}
+.arrows{
+    display: flex;
+    justify-content: center;
+}
+.greenstat{
+    background-color: rgb(86, 218, 81);
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 2px;
+    color: white;
+}
+
+.yellowstat{
+    background-color: rgb(245, 210, 96);
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 2px;
+    color: rgb(114, 112, 112);
+}
+.editbtn{
+    background-color: rgb(96, 96, 209) !important;
+}
+.editbtn:hover{
+    background-color: rgb(59, 59, 163);
+}

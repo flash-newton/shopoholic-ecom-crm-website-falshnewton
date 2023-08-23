@@ -1,0 +1,39 @@
+.imgframe{
+  padding: 15px;
+  border: solid rgb(83, 82, 82) 2px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.imgframe:hover{
+    border: solid 3px rgb(132, 132, 221);
+}
+.myheading{
+    background-color: rgb(109, 110, 204);
+    color: white;
+    text-align: center;
+    margin-bottom: 8px;
+    border-radius: 8px 8px 0 0;
+}
+.myheading h5{
+    color: white;
+}
+
+form label{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.myform input , .myform textarea{
+    border: solid 2px rgb(114, 114, 114) !important;
+    height: 35px;
+}
+.card{
+    box-shadow: rgba(24, 24, 24, 0.24) 0px 8px 16px;
+}
+.btnbox{
+    margin-top: 15px;
+}
+
+.modalimgbox{
+    
+}

@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(56, 55, 55) !important;
+}
+.titlemain{
+    color: white !important;
+}
+header i{
+    color:  white !important;
+}
+.myprof{
+    color: white !important;
+}
+.websitebtn{
+    font-size: 14px;
+    margin-right: 15px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+ 
+}

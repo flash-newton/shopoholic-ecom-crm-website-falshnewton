@@ -1,0 +1,61 @@
+.catimgbox{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+}
+.catimg{
+    width: 100%;
+    cursor: pointer;
+}
+.catimg:hover{
+    transform: scale(1.1);
+}
+.mycardbody{
+    padding: 30px;
+}
+
+.mybtn{
+    background-color: rgb(207, 63, 87);
+    padding: 8px 20px 8px 20px;
+    color: white;
+    font-size: 13px;
+    transform: translateY(-25px);
+    margin-right: 15px;
+}
+.addbtn{
+  
+        background-color: rgb(80, 151, 62);
+        padding: 8px 25px 8px 25px;
+        color: white;
+        font-size: 13px;
+        margin-right: 15px;
+        font-weight: bold;
+    
+}
+
+.addcattitle{
+    color: white;
+    background-color: rgb(100, 100, 216);
+    padding-left: 15px;
+    border-radius: 5px 5px 0 0;
+}
+.container{
+    background-color: rgb(115, 94, 209);
+    width: fit-content;
+    padding: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myform input {
+    border: solid 2px rgb(114, 114, 114) !important;
+    height: 35px;
+}
+
+form label{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0;
+}

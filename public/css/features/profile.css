@@ -1,0 +1,52 @@
+.mainbox{
+    display: flex;
+    flex-direction: row;
+}
+.profilebox{
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.profilebox img{
+    width: 100%;
+}
+.textbox{
+    margin-top: 50px;
+    font-weight: 600;
+}
+.textbox .row{
+    margin-bottom: 8px;
+}
+.mytitlecard{
+    background-color: rgb(77, 77, 177);
+    color: white ;
+    font-weight: 600;
+    border-radius: 9px 9px 0 0;
+}
+.card{
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+
+.btn-primary{
+    background-color: rgb(56, 55, 55);
+}
+.label, label{
+    text-align: center;
+}
+.roletext{
+    background-color: rgb(221, 177, 54);
+    color: white;
+    font-weight: 600;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px;
+}
+.redtext{
+    color: rgb(179, 37, 37);
+}

@@ -1,0 +1,196 @@
+.mycontainer{
+    padding: 25px;
+
+}
+
+
+
+/* form cat */
+.container{
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    min-height: 100vh;
+}
+
+.imgbox{
+    max-width: 75px;
+    max-height:75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgbox img{
+    width: 100%;
+}
+.catcard{
+    border: 4px rgb(71, 86, 134) solid;
+    margin: 10px;
+    border-radius: 25%;
+    background-color: white;
+    padding: 5px;
+    padding-bottom: 0;
+}
+.catcard:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;
+}
+
+.mybody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+    width: 100%;
+}
+.cat_count{
+    font-size: 8vh;
+    font-weight: bold;
+    color: rgb(71, 86, 134);
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+.textbox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cat_name{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+}
+.pagetitle{
+    text-align: center;
+    font-size: 5vh;
+    font-weight: bold;
+}
+.pagedescription{
+    font-size: 3vh;
+    text-align: center;
+}
+
+/* cat end*/
+
+.bluebox{
+    background-color: rgb(162, 161, 245);
+    padding: 20px;
+    padding-top:10px ;
+    border-radius: 15px;
+}
+
+.name-title{
+    margin-left: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* product css*/
+
+.pagetitle{
+    text-align: center;
+    font-size: 5vh;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.pagedescription{
+    font-size: 3vh;
+    text-align: center;
+}
+
+.prodimgbox{
+    max-width: 200px;
+    max-height: 200px;
+    position: relative;
+    overflow: hidden;
+}
+.textbox{
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.prodimgbox img{
+    width: 100%;
+}
+.bigcard{
+    padding: 25px;
+}
+.prodcard{
+    border: 4px rgb(71, 86, 134) solid;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    margin-bottom: 20px;
+    min-height:320px;
+}
+.secondcard{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.status{
+    background-color: rgb(223, 58, 58);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 4px 8px 4px 8px;
+    border-radius: 3px;
+    width: fit-content;
+    position: absolute;
+    top: 20px;
+    left: 2px;
+   
+}
+.topstatus{
+    background-color: rgb(35, 150, 35);
+}
+.prodmytitle{
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgb(71, 86, 134) ;
+    padding: 2px 4px 2px 4px;
+    border-radius: 3px;
+    color: white;
+}
+
+.bluebox{
+    margin-bottom: 15px;
+}
+
+.cartbtn{
+    color: white;
+    background-color: rgb(96, 110, 170);
+    padding: 5px 16px 5px 16px;
+    border-radius: 4px;
+    margin: 10px;
+    margin-top: 0;
+}
+.description{
+    text-align: center;
+    font-size: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(83, 82, 82);
+    font-weight: 600;
+}
+.price{
+    font-size: 3vh;
+    font-weight: 700;
+
+}
+
+.pricebox{
+    display: flex;
+    justify-content: space-around;
+}
+

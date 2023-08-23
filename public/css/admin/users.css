@@ -1,0 +1,25 @@
+.filters{
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+}
+.filters select{
+    width: 150px;
+    margin-right: 7px;
+    font-size: 12px;
+}
+
+.admin{
+    background-color: rgb(209, 73, 103);
+    color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+.cust{
+    background-color: rgb(185, 163, 92);
+    color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px;
+    font-weight: 600;
+}

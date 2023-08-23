@@ -1,0 +1,18 @@
+.greenstat{
+    background-color: rgb(86, 218, 81);
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 2px;
+    color: white;
+}
+
+.yellowstat{
+    background-color: rgb(245, 210, 96);
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 2px;
+    color: rgb(114, 112, 112);
+}
+.editbtn{
+    background-color: rgb(96, 96, 209);
+}

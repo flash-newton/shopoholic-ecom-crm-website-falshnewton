@@ -1,0 +1,54 @@
+.round{
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+}
+.round i{
+    color: rgb(226, 69, 69);
+    font-size: 25px;
+    font-weight: bold;
+}
+.statbox{
+ cursor: pointer;
+    max-width: 225px;
+}
+.myrow{
+    display: flex;
+    justify-content: space-evenly;
+}
+.statbox:hover{
+    transform: scale(1.05);
+    transition: 0.2s ease-in-out;
+
+}
+.statcount{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.stattitle{
+    color: white;
+    text-align: center;
+}
+.stattitle span, .moredet{
+    color: white;
+}
+.sales{
+    background-color:rgb(226, 69, 69) ;
+}
+.customers{
+    background-color: rgb(155, 127, 49);
+}
+.product{
+    background-color: rgb(76, 76, 175);
+}
+.order{
+    background-color: rgb(34, 139, 34);
+}
+.chartrow .card{
+    margin: 5px;
+}
+
+.main{
+    margin-right: 0px;
+}

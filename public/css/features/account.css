@@ -1,0 +1,87 @@
+.mainbox{
+    display: flex;
+    flex-direction: row;
+}
+.profilebox{
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+.profilebox img{
+    width: 100%;
+}
+.textbox{
+    margin-top: 10px;
+}
+.textbox .row{
+    margin-bottom: 8px;
+}
+.mytitlecard{
+    background-color: rgb(77, 77, 177);
+    color: white;
+    font-weight: 600;
+    border-radius: 9px 9px 0 0;
+}
+.card{
+    margin-top: 25px;
+    padding-bottom: 20px;
+}
+
+.btn-primary{
+    background-color: rgb(56, 55, 55);
+}
+.label, label{
+    text-align: center;
+}
+
+.backbtn , .backbtn span{
+    margin-left: 8px;
+    padding: 5px;
+    background-color: rgb(51, 51, 110);
+    color: white;
+    border-radius: 8px;
+    font-size: 13px;
+    cursor: pointer;
+    
+}
+.backbtn:hover{
+    transform: scale(1.05);
+
+}
+.backbtn i{
+    color: white;
+}
+.delbtn{
+    background-color: rgb(206, 55, 55);
+    color: white;
+    font-weight: 700;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 2px 8px 2px 8px;
+    cursor: pointer;
+}
+.delbtn:hover{
+    background-color: brown;
+    color: white;
+}
+
+.admin{
+    background-color: rgb(209, 73, 103);
+    color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+.cust{
+    background-color: rgb(185, 163, 92);
+    color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 3px;
+    font-weight: 600;
+}
