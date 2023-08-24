@@ -1,3 +1,87 @@
+# Shopoholic E-commerce website
+
+A super makret based `e-commerce` platform that enables users to browse and purchase goods.
+
+The system also comes with `CRM` features to better manage the business
+
+This project was designed as a university project for the Sever Side Programming Module 
+
+Last updated date : 09/06/2023
+## About
+
+The technologies used :
+
+**Client:** HTML, CSS, JavaScript, Bootstrap
+
+**Server:** Laravel, Livewire, SQLite
+
+<img src="https://github.com/flash-newton/shopoholic-ecom-crm-website-falshnewton/assets/118200707/3d768e82-285f-417a-828d-4b5379b4dbca" align="center" />
+
+## Features
+General Features include :
+ - `Login` features for both Admins and general users
+ - Users can `browser, select and place orders` on avaiable products.
+ - Product `status` will be shown to suers ranging from their popularity to their availability in terms of stock
+ - `Add-to-Cart` feature available to users for a more quality shopping experience
+ - Products are segregated into different categories and sub-categories with `filter` and `search` options for a better browsing experience 
+ - Users can keep track of all their individual orders 
+ - Admins have access to the admin dashbaord
+ - `System dashboard features` will help Admins manage and maintain all the operations and sales of the platform more efficiently  
+ 
+ [Full Feature Documentation](https://github.com/flash-newton/shopoholic-ecom-crm-website-falshnewton/files/12426186/FeatureDocumentation-CRM_ecommerce_system-cb009580.pdf)
+       
+#
+
+
+
+
+
+
+## Installation
+
+To run my-project locally:
+
+Clone the project
+
+```bash
+  git clone https://github.com/flash-newton/shopoholic-ecom-crm-website-falshnewton.git
+```
+
+Go to the project directory
+
+```bash
+  cd shopoholic-ecom-crm-website-flashnewton
+```
+
+Install dependencies
+
+```bash
+  composer install
+```
+
+Start the server
+
+```bash
+  php artisan serve
+ ```   
+
+## Contact
+
+For any question regarding this project, please contact me through my LinkedIn or through the email berajapakse@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalrajapakse/)
+
+## Acknowledgements
+
+Resource matierials and references used in the making of this project :
+
+ - [Funda of Web IT](https://www.fundaofwebit.com/)
+
+ - [Yelo Code - Livewire 3 Crashcourse](https://www.youtube.com/watch?v=gFeeVyJQeBc)
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
